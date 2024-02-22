@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Details
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KuldeepKdy&" alt="KuldeepKdy" />
-
+<br/>
 ---
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Kuldeep&label=Profile%20Views&pretty=false" />
